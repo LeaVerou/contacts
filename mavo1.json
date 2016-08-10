@@ -14,6 +14,10 @@
 				{
 					"label": "Email",
 					"emailAddress": "leaverou@mit.edu"
+				},
+				{
+					"label": "Email",
+					"emailAddress": "lea@verou.me"
 				}
 			],
 			"phoneNumber": "555-123-4567",
