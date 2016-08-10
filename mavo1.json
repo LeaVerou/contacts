@@ -1,0 +1,12 @@
+{
+	"contact": [
+		{
+			"picture": "https://pbs.twimg.com/profile_images/584963092120899586/TxkxQ7Y5_400x400.png",
+			"name": "Lea Verou",
+			"affiliation": "MIT CSAIL",
+			"phoneNumber": "555-123-4567",
+			"emailAddress": "leaverou@mit.edu"
+		},
+		{}
+	]
+}
