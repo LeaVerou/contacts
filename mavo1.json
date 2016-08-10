@@ -7,6 +7,12 @@
 			"phoneNumber": "555-123-4567",
 			"emailAddress": "leaverou@mit.edu"
 		},
-		{}
+		{
+			"picture": "https://raw.githubusercontent.com/LeaVerou/contacts/master/images/karger.jpg",
+			"name": "David Karger",
+			"affiliation": "MIT CSAIL",
+			"phoneNumber": "555-123-2222",
+			"emailAddress": "karger@mit.edu"
+		}
 	]
 }
