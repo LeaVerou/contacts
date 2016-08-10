@@ -4,6 +4,18 @@
 			"picture": "https://pbs.twimg.com/profile_images/584963092120899586/TxkxQ7Y5_400x400.png",
 			"name": "Lea Verou",
 			"affiliation": "MIT CSAIL",
+			"phone": [
+				{
+					"label": "Mobile",
+					"phoneNumber": "555-123-4567"
+				}
+			],
+			"email": [
+				{
+					"label": "Email",
+					"emailAddress": "leaverou@mit.edu"
+				}
+			],
 			"phoneNumber": "555-123-4567",
 			"emailAddress": "leaverou@mit.edu"
 		},
@@ -11,6 +23,18 @@
 			"picture": "https://raw.githubusercontent.com/LeaVerou/contacts/master/images/karger.jpg",
 			"name": "David Karger",
 			"affiliation": "MIT CSAIL",
+			"phone": [
+				{
+					"label": "Mobile",
+					"phoneNumber": "555-123-2222"
+				}
+			],
+			"email": [
+				{
+					"label": "Email",
+					"emailAddress": "karger@mit.edu"
+				}
+			],
 			"phoneNumber": "555-123-2222",
 			"emailAddress": "karger@mit.edu"
 		}
